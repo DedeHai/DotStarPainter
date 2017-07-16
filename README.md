@@ -74,7 +74,7 @@ implemented the fadings using 16bit variables and bit-shifts (aka fixed point ar
 - **void setBounce(bool value)**
   - bounce the brush once it reaches either end of the strip instead of jumping to the other end
 
-# #DotStarPainterCanvas-Class functions
+## DotStarPainterCanvas-Class functions
 - **DotStarPainterCanvas(Adafruit_DotStar* Pixels)**
   - class constructor, pass the DotStars as a pointer (using '&mydotstars')
 - **~DotStarPainterCanvas(void)**
